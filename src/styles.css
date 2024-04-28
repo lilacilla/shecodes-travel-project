@@ -257,11 +257,11 @@ footer a {
   }
 
   .card-header img {
-    display: none;
+    aspect-ratio: 16 / 9;
   }
 
   .embed {
-    aspect-ratio: 16 / 9;
+    display: none;
   }
 
   .insta-embed {
